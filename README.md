@@ -1,6 +1,9 @@
 # Wavefront
 Wavefront generation and analyze.
 
+### circular_lib
+Some functions to handle circular processing: circular average, circular variance, image centering
+
 ### ShackHart
 Shack-Hartman class.
 
